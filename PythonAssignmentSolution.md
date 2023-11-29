@@ -94,11 +94,11 @@ Ans15. / is used for float division and // is used of floor (integer) division.
 
 Q16. Write a code that gives following as an output.
 ```
-iNeuroniNeuroniNeuroniNeuron
+DataScienceDataScienceDataScience
 ```
 Ans16. 
 ```python
-"iNeuron"*3
+"DataScience"*3
 ```
 
 Q17. Write a code to take a number as an input from the user and check if the number is odd or even.
@@ -221,17 +221,17 @@ Ans27. Sqaure brackets can used to access the elements of the string.
 
 Q28. Write a code to get the desired output of the following
 ```
-string = "Big Data iNeuron"
-desired_output = "iNeuron"
+string = "Big Data Python"
+desired_output = "Python"
 ```
 Ans28. 
 ```python
-string[9:16]
+string[9:15]
 ```
 Q29. Write a code to get the desired output of the following
 ```
-string = "Big Data iNeuron"
-desired_output = "norueNi"
+string = "Big Data Python"
+desired_output = "nohtyP"
 ```
 Ans29. 
 ```python
@@ -258,9 +258,9 @@ Ans32. The "backslash (\)" character as an escape character. In other words, it 
 
 Q33. How can you print the below string?
 ```
-'iNeuron's Big Data Course'
+'It's Big Data Course'
 ```
-Ans33. 'iNeuron\'s Big Data Course'
+Ans33. 'It\'s Big Data Course'
 
 Q34. What is a list in Python?
 
@@ -276,11 +276,11 @@ Ans36. We can access the elements in a list by indexing.
 
 Q37. Write a code to access the word "iNeuron" from the given list.
 ```
-lst = [1,2,3,"Hi",[45,54, "iNeuron"], "Big Data"]
+lst = [1,2,3,"Hi",[45,54, "Python"], "Big Data"]
 ``` 
 Ans37.
 ```python
-lst = [1,2,3,"Hi",[45,54, "iNeuron"], "Big Data"]
+lst = [1,2,3,"Hi",[45,54, "Python"], "Big Data"]
 lst[4][2]
 ```
 Q38. Take a list as an input from the user and find the length of the list.
