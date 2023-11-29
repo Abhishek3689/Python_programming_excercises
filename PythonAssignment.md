@@ -31,7 +31,7 @@ Q15. What is difference between / and // operators?
 
 Q16. Write a code that gives following as an output.
 ```
-iNeuroniNeuroniNeuroniNeuron
+DataScienceDataScienceDataScience
 ```
 
 Q17. Write a code to take a number as an input from the user and check if the number is odd or even.
@@ -80,14 +80,14 @@ Q27. How can we access the string using its index?
 
 Q28. Write a code to get the desired output of the following
 ```
-string = "Big Data iNeuron"
-desired_output = "iNeuron"
+string = "Big Data Python"
+desired_output = "Python"
 ```
 
 Q29. Write a code to get the desired output of the following
 ```
-string = "Big Data iNeuron"
-desired_output = "norueNi"
+string = "Big Data Python"
+desired_output = "nohtyP"
 ```
 
 Q30. Resverse the string given in the above question.
@@ -98,7 +98,7 @@ Q32. What is escape sequence?
 
 Q33. How can you print the below string?
 ```
-'iNeuron's Big Data Course'
+'It's Big Data Course'
 ```
 
 Q34. What is a list in Python?
@@ -107,9 +107,9 @@ Q35. How can you create a list in Python?
 
 Q36. How can we access the elements in a list?
 
-Q37. Write a code to access the word "iNeuron" from the given list.
+Q37. Write a code to access the word "Python" from the given list.
 ```
-lst = [1,2,3,"Hi",[45,54, "iNeuron"], "Big Data"]
+lst = [1,2,3,"Hi",[45,54, "Python"], "Big Data"]
 ``` 
 
 Q38. Take a list as an input from the user and find the length of the list.
@@ -133,7 +133,7 @@ Q45. What are sets in Python?
 
 Q46. How can you create a set?
 
-Q47. Create a set and add "iNeuron" in your set.
+Q47. Create a set and add "Python" in your set.
 
 Q48. Try to add multiple values using add() function.
 
