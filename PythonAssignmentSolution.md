@@ -274,7 +274,7 @@ Q36. How can we access the elements in a list?
 
 Ans36. We can access the elements in a list by indexing.
 
-Q37. Write a code to access the word "iNeuron" from the given list.
+Q37. Write a code to access the word "Python" from the given list.
 ```
 lst = [1,2,3,"Hi",[45,54, "Python"], "Big Data"]
 ``` 
@@ -351,7 +351,7 @@ Q47. Create a set and add "iNeuron" in your set.
 
 Ans47. 
 ```python
-set1 = {"iNeuron"}
+set1 = {"Python"}
 set1
 ```
 
@@ -441,7 +441,7 @@ Q60. Create a dictionary and access all the values in that dictionary.
 
 Ans60. 
 ```python
-Dict = {"Name": "Vishal", "Experience": 3, "Organisation":"iNeuron"}
+Dict = {"Name": "Abhishek", "Experience": 3, "Organisation":"Code Icons"}
 for i, j in Dict.items():
   print(f"Key is {i} and value is {j}")
 ```
@@ -450,7 +450,7 @@ Q61. Create a nested dictionary and access all the element in the inner dictiona
 
 Ans61.
 ```python
-Dict = {"Name": {"f_name":"Vishal", "l_name":"Singh"}, "Experience": 3, "Organisation":"iNeuron"}
+Dict = {"Name": {"f_name":"Abhishek", "l_name":"Nishad"}, "Experience": 3, "Organisation":"Code Icons"}
 for i, j in Dict["Name"].items():
   print(f"Key is {i} and value is {j}")
 ```
@@ -458,35 +458,35 @@ Q62. What is the use of get() function?
 
 Ans62. get() is also to access the elements in dictionary.
 ```python
-Dict = {"Name": "Vishal", "Experience": 3, "Organisation":"iNeuron"}
+Dict = {"Name": "Abhishek", "Experience": 3, "Organisation":"Code Icons"}
 print(Dict.get("Name"))
 ```
 Q63. What is the use of items() function?
 
 Ans63. items() method is used to return the list with all dictionary keys with values.
 ```python
-Dict = {"Name": "Vishal", "Experience": 3, "Organisation":"iNeuron"}
+Dict = {"Name": "Abhishek", "Experience": 3, "Organisation":"Code Icons"}
 print(Dict.items())
 ```
 Q64. What is the use of pop() function?
 
 Ans64.
 ```python
-Dict = {"Name": "Vishal", "Experience": 3, "Organisation":"iNeuron"}
+Dict = {"Name": "Abhishek", "Experience": 3, "Organisation":"Code Icons"}
 print(Dict.pop("Name"))
 ```
 Q65. What is the use of popitems() function?
 
 Ans65. popitem() method removes the last inserted key-value pair from the dictionary and returns it as a tuple.
 ```python
-Dict = {"Name": "Vishal", "Experience": 3, "Organisation":"iNeuron"}
+Dict = {"Name": "Abhishek", "Experience": 3, "Organisation":"Code Icons"}
 print(Dict.popitem())
 ```
 Q66. What is the use of keys() function?
 
 Ans66.  keys() method returns a view object that displays a list of all the keys in the dictionary.
 ```python
-Dict = {"Name": "Vishal", "Experience": 3, "Organisation":"iNeuron"}
+Dict = {"Name": "Abhishek", "Experience": 3, "Organisation":"Code Icons"}
 print(Dict.keys())
 ```
 Q67. What is the use of values() function?
@@ -494,7 +494,7 @@ Q67. What is the use of values() function?
 
 Ans67. values() is an inbuilt method in Python programming language that returns a view object. The view object contains the values of the dictionary, as a list.
 ```python
-Dict = {"Name": "Vishal", "Experience": 3, "Organisation":"iNeuron"}
+Dict = {"Name": "Abhishek", "Experience": 3, "Organisation":"Code Icons"}
 print(Dict.values())
 ```
 
@@ -761,8 +761,8 @@ def check_substring(s2, s1):
 		print(f'"{s1}" is not a substring of "{s2}"')
 
 
-s2 = "Welcome to iNeuron Big Data Bootcamp"
-s1 = "iNeuron"
+s2 = "Welcome to Data Science Big Data Bootcamp"
+s1 = "Science"
 check_substring(s2, s1)
 ```
 Q89. Write a Python program to find words which are greater than given length k.
@@ -791,7 +791,7 @@ Q90. Write a Python program to extract unquire dictionary values.
 
 Ans90.
 ```python
-test_dict = {'iNeuron': [5, 6, 7, 8],
+test_dict = {'Code Course': [5, 6, 7, 8],
 			'is': [10, 11, 7, 5],
 			'best': [6, 12, 10, 8],
 			'for': [1, 2, 5],
