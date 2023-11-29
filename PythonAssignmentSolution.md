@@ -347,7 +347,7 @@ Q46. How can you create a set?
 
 Ans46. We can create set using curly brackets {}. Keep in mind empty {} will result in dictionary hence there must be some value in the brackets.
 
-Q47. Create a set and add "iNeuron" in your set.
+Q47. Create a set and add "Python" in your set.
 
 Ans47. 
 ```python
