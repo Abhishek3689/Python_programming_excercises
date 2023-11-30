@@ -58,6 +58,7 @@ Q22. Write a code to take the age of person as an input and if age >= 18 display
 Q23. Write a code that displays the sum of all the even numbers from the given list.
 ```
 numbers = [12, 75, 150, 180, 145, 525, 50]
+
 ```
 
 
